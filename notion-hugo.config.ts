@@ -1,7 +1,7 @@
 import { UserConfig } from "./src/config"
 
 const userConfig: UserConfig = {
-    base_url: "https://notion-hugo.pages.dev",
+    base_url: "deominic-jdr-github-io.pages.dev",
     mount: {
         manual: false,
         page_url: 'https://dust-garage-b12.notion.site/Personal-Website-2aafe9ed9e1181209e65e84215159a27',
